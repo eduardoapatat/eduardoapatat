@@ -65,13 +65,13 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claudecode/claudecode-original.svg" width="42" height="42" alt="Claude Code"/><br/><b>Claude Code</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/><br/><b>Docker</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="42" height="42" alt="Cloudflare"/><br/><b>Cloudflare</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Vercel"/><br/><b>Vercel</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br/><b>Git</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/><br/><b>Linux</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/><br/><b>GitHub</b></td>
-    <td></td>
   </tr>
 </table>
 

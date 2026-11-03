@@ -1,8 +1,3 @@
-<div align="right">
-	<img src="https://img.shields.io/badge/EN--0e76a8?style=flat-square&labelColor=0e76a8" alt="English" />
-	<img src="https://komarev.com/ghpvc/?username=eduardoapatat&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views" />
-</div>
-
 <div align="center">
 
 # Eduardo Apata Tito

@@ -25,7 +25,7 @@
 ## Tech Stack
 
 <table align="center">
-  <tr><th colspan="6" align="center">Languages &amp; Backend</th></tr>
+  <tr><th colspan="7" align="center">Languages &amp; Backend</th></tr>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="42" height="42" alt="Laravel"/><br/><b>
     Laravel</b></td>
@@ -35,8 +35,9 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/><br/><b>JavaScript</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/><br/><b>Node.js</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="42" height="42" alt="Express"/><br/><b>Express</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="42" height="42" alt="NesJS"/><br/><b>NetsJS</b></td>
   </tr>
-  <tr><th colspan="5" align="center">Frontend &amp; UI</th></tr>
+  <tr><th colspan="7" align="center">Frontend &amp; UI</th></tr>
   <tr>
     <td></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="42" height="42" alt="Vue.js"/><br/><b>Vue.js</b></td>
@@ -46,12 +47,15 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/><br/><b>CSS3</b></td>
     <td></td>
   </tr>
-  <tr><th colspan="6" align="center">Databases, Cloud &amp; Tools</th></tr>
+  <tr><th colspan="7" align="center">Databases, Cloud &amp; Tools</th></tr>
   <tr>
+    <td></td>
     <td></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/><br/><b>PostgreSQL</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/><br/><b>MySQL</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="Redis"/><br/><b>SQLite</b></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
@@ -59,8 +63,8 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="42" height="42" alt="Cloudflare"/><br/><b>Cloudflare</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="42" height="42" alt="Vercel"/><br/><b>Vercel</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br/><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/><br/><b>Linux</b></td>
     <td align="center"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub"/><br/><b>GitHub</b></td>
+    <td></td>
   </tr>
 </table>
 

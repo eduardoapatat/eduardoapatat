@@ -2,7 +2,7 @@
 
 <h1 align="center">Eduardo Apata Tito </h1>
 
-### Full-Stack Developer | AI Integrations | Cybersecurity Student
+### Full-Stack Developer | AI Integrations | Cybersecurity
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=25&amp;duration=2000&amp;pause=800&amp;color=FF8C00&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=700&amp;lines=Hi%2C+I%27m+Eduardo+%F0%9F%91%8B;Full-Stack+Developer;AI+Integrations;Cybersecurity" alt="Animated roles" />
@@ -93,7 +93,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoapatat/eduardoapatat/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/eduardoapatat/eduardoapatat/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
 <div align="center">

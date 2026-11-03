@@ -1,24 +1,31 @@
 <div align="center">
 
-# Eduardo Apata Tito
+<h1 align="center">Eduardo Apata Tito </h1>
 
-### FullStack Developer | AI Integrations 
+### Full-Stack Developer | AI Integrations | Cybersecurity Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=900&size=18&duration=3000&pause=1000&color=0EA4F7&background=D514FF00&width=435&lines=Full-Stack+Developer+and+Cibersecurity)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=25&amp;duration=2000&amp;pause=800&amp;color=FF8C00&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=700&amp;lines=Hi%2C+I%27m+Eduardo+%F0%9F%91%8B;Full-Stack+Developer;AI+Integrations;Cybersecurity" alt="Animated roles" />
+</p>
 
-*Hi, I'm Eduardo Apata Tito. I enjoy learning new things and building web applications and software systems. I am currently studying cybersecurity and plan to pursue it professionally in the future.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eduardoapatat&amp;label=Profile%20Views&amp;color=FF8C00&amp;style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/eduardoapatat?label=Followers&amp;style=for-the-badge&amp;color=FF8C00&amp;labelColor=282828" alt="Followers" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eduardoapatat)
-
-</div>
-
-<div align="center">
-
-## About Me
 
 </div>
 
-<p align="center"><strong>Full-Stack Developer</strong> &nbsp;·&nbsp; <strong>Cybersecurity</strong> &nbsp;·&nbsp; <strong>AI as a Coding Tool</strong></p>
+<h2 align="center">About me</h2>
+<p align="left">
+  I'm Eduardo Apata Tito, a full-stack developer who enjoys learning how things work and building practical solutions to real-world problems.
+</p>
+<p align="left">
+  My work focuses on web development, backend engineering, and AI integrations. I'm currently studying cybersecurity and plan to pursue it professionally in the future.
+</p>
+<p align="left">
+  Beyond writing code, I enjoy exploring new technologies, improving my skills, and turning ideas into useful applications and software systems.
+</p>
 
 <div align="center">
 
@@ -84,6 +91,10 @@
 		</td>
 	</tr>
 </table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eduardoapatat/eduardoapatat/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 <div align="center">
 </div>
